@@ -1,5 +1,8 @@
 # Data2Calendar
 
-Essentially, the Data2Calendar program is the only thing that is working here.
+Currently, the only functioning code is the Data_2_Calendar.py file.
 
-The data.txt file is the tested input file, and running.ics is the resultant output file 
+Data.txt : tested input file
+Running.ics : resultant output file 
+
+How should the input be?
